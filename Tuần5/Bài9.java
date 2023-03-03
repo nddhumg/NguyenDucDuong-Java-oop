@@ -3,7 +3,7 @@ public class Bai9 {
 	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Nhap so luong phan tu:");
+		System.out.println("Nhap chuoi ktra:");
 		String a = sc.nextLine();
 		int t=0,h=0,s=0;
 		char kytu;
